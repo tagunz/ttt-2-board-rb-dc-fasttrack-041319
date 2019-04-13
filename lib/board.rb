@@ -30,8 +30,6 @@ row_one[1] = "X"
 row_one[2] = "X"
 # row_one => [" ", " ", "X"]
 
-//
-
 row_two = [" ", " ", " "]
 
 # Position 4: Left
@@ -82,5 +80,5 @@ row_three[2] = "X"
 
 
 board = [row_one, row_two, row_three]
-
+puts board
   

@@ -66,17 +66,17 @@
 # # Position 9: Right
 # row_three[2]
  
-# Move X to the Position 7, Left
-row_three[0] = "X"
-# row_three => ["X", " ", " "]
+# # Move X to the Position 7, Left
+# row_three[0] = "X"
+# # row_three => ["X", " ", " "]
 
-# Move X to the Position 8, Middle
-row_three[1] = "X"
-# row_three => [" ", "X", " "]
+# # Move X to the Position 8, Middle
+# row_three[1] = "X"
+# # row_three => [" ", "X", " "]
 
-# Move X to the Position 9, Right
-row_three[2] = "X"
-# row_three => [" ", " ", "X"]
+# # Move X to the Position 9, Right
+# row_three[2] = "X"
+# # row_three => [" ", " ", "X"]
 
 
 board = [row_one, row_two, row_three]

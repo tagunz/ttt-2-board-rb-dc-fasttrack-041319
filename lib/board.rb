@@ -57,7 +57,7 @@ row_two[2] = "X"
 
 //
 
-row_three[" ", " ", " "]
+row_three = [" ", " ", " "]
 
 # Position 7: Left
 row_three[0]

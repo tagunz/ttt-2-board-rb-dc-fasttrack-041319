@@ -17,7 +17,7 @@ row_one[1]
 row_one[2]
  
 # Move X to the Position 1, Left
-row[0] = "X"
+row_one[0] = "X"
 # row_one => ["X", " ", " "]
 
 # Move X to the Position 2, Middle
@@ -25,7 +25,28 @@ row_one[1] = "X"
 # row_one => [" ", "X", " "]
 
 # Move X to the Position 3, Right
-row[2] = "X"
+row_one[2] = "X"
 # row_one => [" ", " ", "X"]
 
 row_two = [" ", " ", " "]
+
+# Position 1: Left
+row_two[0]
+ 
+# Position 2: Middle
+row_two[1]
+ 
+# Position 3: Right
+row_two[2]
+ 
+# Move X to the Position 1, Left
+row_two[0] = "X"
+# row_two => ["X", " ", " "]
+
+# Move X to the Position 2, Middle
+row_two[1] = "X"
+# row_two => [" ", "X", " "]
+
+# Move X to the Position 3, Right
+row_two[2] = "X"
+# row_two => [" ", " ", "X"]

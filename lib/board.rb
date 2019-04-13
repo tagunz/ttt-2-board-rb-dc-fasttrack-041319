@@ -79,8 +79,8 @@
 # # row_three => [" ", " ", "X"]
 
 
-board = ["1", " ", " ", " ", " ", " ", " ", " ", 1]
-board[0] = "stringy thing"
+# board = ["1", " ", " ", " ", " ", " ", " ", " ", 1]
+# board[0] = "stringy thing"
 
-puts board
+# puts board
   

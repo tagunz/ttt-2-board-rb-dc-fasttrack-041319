@@ -79,5 +79,6 @@ row_three[1] = "X"
 # Move X to the Position 3, Right
 row_three[2] = "X"
 # row_three => [" ", " ", "X"]
-def board
+board = [row_one, row_two, row_three]
+
   

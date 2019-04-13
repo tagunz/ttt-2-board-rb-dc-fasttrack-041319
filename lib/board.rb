@@ -82,5 +82,5 @@
 board = ["1", " ", " ", " ", " ", " ", " ", " ", 1]
 board[-1] = "stringy thing"
 
-puts board[-1]
+puts board
   

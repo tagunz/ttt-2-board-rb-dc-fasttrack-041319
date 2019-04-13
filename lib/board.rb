@@ -80,7 +80,7 @@
 
 
 board = ["1", " ", " ", " ", " ", " ", " ", " ", 1]
-board[1] = "stringy thing"
+board[0] = "stringy thing"
 
 puts board
   

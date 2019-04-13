@@ -34,24 +34,24 @@ row_one[2] = "X"
 
 row_two = [" ", " ", " "]
 
-# Position 1: Left
+# Position 4: Left
 row_two[0]
  
-# Position 2: Middle
+# Position 5: Middle
 row_two[1]
  
-# Position 3: Right
+# Position 6: Right
 row_two[2]
  
-# Move X to the Position 1, Left
+# Move X to the Position 4, Left
 row_two[0] = "X"
 # row_two => ["X", " ", " "]
 
-# Move X to the Position 2, Middle
+# Move X to the Position 5, Middle
 row_two[1] = "X"
 # row_two => [" ", "X", " "]
 
-# Move X to the Position 3, Right
+# Move X to the Position 6, Right
 row_two[2] = "X"
 # row_two => [" ", " ", "X"]
 
@@ -59,26 +59,28 @@ row_two[2] = "X"
 
 row_three[" ", " ", " "]
 
-# Position 1: Left
+# Position 7: Left
 row_three[0]
  
-# Position 2: Middle
+# Position 8: Middle
 row_three[1]
  
-# Position 3: Right
+# Position 9: Right
 row_three[2]
  
-# Move X to the Position 1, Left
+# Move X to the Position 7, Left
 row_three[0] = "X"
 # row_three => ["X", " ", " "]
 
-# Move X to the Position 2, Middle
+# Move X to the Position 8, Middle
 row_three[1] = "X"
 # row_three => [" ", "X", " "]
 
-# Move X to the Position 3, Right
+# Move X to the Position 9, Right
 row_three[2] = "X"
 # row_three => [" ", " ", "X"]
+
+
 board = [row_one, row_two, row_three]
 
   

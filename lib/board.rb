@@ -80,7 +80,7 @@
 
 
 board = ["1", " ", " ", " ", " ", " ", " ", " ", 1]
-# puts board
+board[-1] = "stringy thing"
 
 puts board[-1]
   

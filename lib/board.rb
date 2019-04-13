@@ -80,5 +80,5 @@ row_three[2] = "X"
 
 
 board = [row_one, row_two, row_three]
-puts board
+puts board[0]
   

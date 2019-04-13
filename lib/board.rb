@@ -5,10 +5,10 @@
 -----------   
  7 | 8 | 9 
  
- row = [" ", " ", " "]
+ row_one = [" ", " ", " "]
  
 # Position 1: Left
-row[0]
+row_one[0]
  
 # Position 2: Middle
 row[1]
@@ -20,4 +20,5 @@ row[2]
 row[1] = "X"
 row #=> [" ", "X", " "]
 
-# Move X to the Position 2, Middle
+# Move X to the Position 1, Left
+row[0] = "X"

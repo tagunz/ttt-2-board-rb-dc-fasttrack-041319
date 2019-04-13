@@ -82,5 +82,5 @@
 board = ["1", " ", " ", " ", " ", " ", " ", " ", 1]
 # puts board
 
-puts board[0]
+puts board[-1]
   

@@ -80,7 +80,7 @@
 
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-puts board
+# puts board
 
 puts board[0]
   

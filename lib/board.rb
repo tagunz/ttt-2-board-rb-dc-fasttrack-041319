@@ -79,6 +79,6 @@
 # # row_three => [" ", " ", "X"]
 
 
-board = [row_one, row_two, row_three]
-puts board[0]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+puts board
   
